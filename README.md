@@ -1,5 +1,5 @@
-# contador_de_pessoas
-
+# Contador de Pessoas
+Primeiro projeto criado em flutter
 
 ## Projeto
 
